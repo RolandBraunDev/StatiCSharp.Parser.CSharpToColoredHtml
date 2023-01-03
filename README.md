@@ -1,1 +1,1 @@
-# StatiCSharp.Parser.CSharpToColouredHtml
+# C# to coloured HTML parser
