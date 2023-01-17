@@ -1,14 +1,8 @@
 # C# to colored HTML parser
 
-This is a port of [Swiftly1](https://github.com/Swiftly1)'s [CsharpToColouredHTML](https://github.com/Swiftly1/CsharpToColouredHTML) for [StatiC#](https://github.com/RolandBraunDev/StatiCSharp), a static website generator for C# developers. Requiring StatiC# 0.4.0 or higher.
+This is a port of [Swiftly1](https://github.com/Swiftly1)'s [CsharpToColouredHTML](https://www.nuget.org/packages/CsharpToColouredHTML.Core) for [StatiC#](https://www.nuget.org/packages/StatiCSharp), a static website generator for C# developers. Requiring StatiC# 0.4.0 or higher.
 
 By injecting this parser into StatiC#'s website-generating process all code parts of your markdown files are rendered to look as if it was inside Visual Studio or Visual Studio Code.
-
-## Example
-
-<p align="center">
-    <img src=".GitHub/Images/Example.jpg" width="95%" alt="Colored code example" />
-</p>
 
 ## How to use
 
@@ -45,4 +39,4 @@ ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## CsharpToColouredHTML
 
-=> Check out the original project of Swiftly1 here: [Link](https://github.com/Swiftly1/CsharpToColouredHTML)
+=> Check out the original project of Swiftly1 here: [Link](https://www.nuget.org/packages/CsharpToColouredHTML.Core)
