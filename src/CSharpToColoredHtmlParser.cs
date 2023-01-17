@@ -2,16 +2,16 @@
 using StatiCSharp.Interfaces;
 using System.Text;
 
-namespace StatiCSharp.Parser;
+namespace StatiCSharp.Parser.CSharpToColoredHtmlParser;
 
-public class CSharpToColouredHtmlParser : IPipelineParser
+public class CSharpToColoredHtmlParser : IPipelineParser
 {
     private bool _disableLineNumbers = false;
     private string _openingMarker = "```cs";
     private string _closingMarker = "```";
     public string HeaderContent => string.Empty;
 
-    public CSharpToColouredHtmlParser DisableLineNumbers()
+    public CSharpToColoredHtmlParser DisableLineNumbers()
     {
         _disableLineNumbers = true;
         return this;
