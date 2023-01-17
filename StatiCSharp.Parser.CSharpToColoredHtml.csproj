@@ -11,4 +11,8 @@
     <PackageReference Include="StatiCSharp" Version="0.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".NuGet\README.md" />
+  </ItemGroup>
+
 </Project>
