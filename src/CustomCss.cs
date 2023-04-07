@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StatiCSharp.Parser;
+namespace StatiCSharp.Parser.CSharpToColoredHtmlParser;
 
 internal static class CustomCss
 {
