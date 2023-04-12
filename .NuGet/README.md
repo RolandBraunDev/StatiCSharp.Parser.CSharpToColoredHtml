@@ -2,7 +2,7 @@
 
 This is a port of [Swiftly1](https://github.com/Swiftly1)'s [CsharpToColouredHTML](https://www.nuget.org/packages/CsharpToColouredHTML.Core) for [StatiC#](https://www.nuget.org/packages/StatiCSharp), a static website generator for C# developers. Requiring StatiC# 0.4.0 or higher.
 
-By injecting this parser into StatiC#'s website-generating process all code parts of your markdown files are rendered to look as if it was inside Visual Studio or Visual Studio Code.
+By injecting this parser into StatiC#'s website-generating process all C# code parts of your markdown files are rendered to look as if it was inside Visual Studio or Visual Studio Code.
 
 ## How to use
 
