@@ -1,5 +1,19 @@
 # C# to colored HTML parser
 
+<p align="center">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/C%23-11.0-blue?style=flat" alt="C# 11.0" />
+    </a>
+    <a href="https://dotnet.microsoft.com">
+        <img src="https://img.shields.io/badge/.NET-7.0-blueviolet?style=flat" />
+    </a>
+    <img src="https://img.shields.io/badge/Platforms-Win+Mac+Linux-green?style=flat" />
+    <img src="https://img.shields.io/badge/Version-0.1.0-green?style=flat" />
+    <a href="https://www.nuget.org/packages/StatiCSharp.Parser.CSharpToColoredHtml">
+        <img src="https://img.shields.io/nuget/v/StatiCSharp.Parser.CSharpToColoredHtml?color=orange" />
+    </a>
+</p>
+
 This is a port of [Swiftly1](https://github.com/Swiftly1)'s [CsharpToColouredHTML](https://github.com/Swiftly1/CsharpToColouredHTML) for [StatiC#](https://github.com/RolandBraunDev/StatiCSharp), a static website generator for C# developers. Requiring StatiC# 0.4.0 or higher.
 
 By injecting this parser into StatiC#'s website-generating process all code parts of your markdown files are rendered to look as if it was inside Visual Studio or Visual Studio Code.
