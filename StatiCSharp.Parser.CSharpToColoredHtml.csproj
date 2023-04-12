@@ -15,6 +15,8 @@
     <AssemblyVersion>0.1.0</AssemblyVersion>
 	<Version>0.1.0</Version>
     <PackageTags>StatiC#; StatiCSharp; staticsharp; Staticsharp; StatiCsharp; static; website; generator; parser; Parser; code; csharp;</PackageTags>
+    <Authors>Roland Braun</Authors>
+    <Copyright>Roland Braun</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
