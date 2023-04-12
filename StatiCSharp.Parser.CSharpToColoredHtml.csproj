@@ -13,6 +13,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Initital relase with the basic functionality.</PackageReleaseNotes>
     <AssemblyVersion>0.1.0</AssemblyVersion>
+	<Version>0.1.0</Version>
     <PackageTags>StatiC#; StatiCSharp; staticsharp; Staticsharp; StatiCsharp; static; website; generator; parser; Parser; code; csharp;</PackageTags>
   </PropertyGroup>
 
